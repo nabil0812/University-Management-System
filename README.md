@@ -98,5 +98,15 @@ Build and run.
 ### About Developer
 ![aboutdeveloper snap](https://github.com/nabil0812/University-Management-System/blob/main/screenshots/about.png)
 
+### References
+
+Books and Websites:
+
+•	Internet & World Wide Web: How to Program Deitel, PJ Deitel.
+•	Code for Interview YouTube Channel.
+•	Database System Concepts, by Silberschatz, Sudarshan, and Korth.
+•	Fundamentals of Database Systems, RamezElmasri and Shamkant B. Navathe, 7th Edition. 2017, Pearson...
+
+
 ## Feedback
 Any suggestion and feedback is welcome.
