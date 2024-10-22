@@ -41,7 +41,13 @@ Software
  - Operating System: Windows 11
  - Application Server: Java (NetBeans)
  - Front End: Java
+ - Connectivity	: JDBC Driver
  - Database Connectivity: MySQL Workbench
+ - Operating system	: Windows 10
+
+
+
+
 
 
 
