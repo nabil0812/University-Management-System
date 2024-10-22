@@ -33,11 +33,15 @@ The University Management System (UMS) is a comprehensive solution designed to s
 The UMS project addresses various college management processes, including student registration, fee management, examination records, and student result tracking. The system aims to automate these activities to reduce manual intervention and improve efficiency.
 
 ### Requirements
+
 Hardware
+
  - Processor: Ryzen R5, 2 GHz
  - RAM: 2 GB
  - Hard Drive: 160 GB
+
 Software
+
  - Operating System: Windows 11
  - Application Server: Java (NetBeans)
  - Front End: Java
