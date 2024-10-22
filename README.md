@@ -36,9 +36,9 @@ Software
  - Database Connectivity: MySQL Workbench
 
 
-### Schema Diagram
 
-Database Tables
+
+### Database Tables
  - Student Table: Stores student personal and academic details.
  - Teacher Table: Stores teacher personal and professional details.
  - Student_Leave Table: Tracks student leave.
@@ -49,12 +49,16 @@ Database Tables
 
 
 ### Installation
-''' Clone the repository:
+
+ - Clone the repository:
+```
 git clone https://github.com/nabil0812/university-management-system.git
-''' 
-### Database Setup:
-Import database.sql to your MySQL server.
-Run the Application:
+``` 
+ - Database Setup:
+
+``` Import database.sql to your MySQL server. ```
+ - Run the Application:
 Open the project in NetBeans.
 Build and run.
+
 
