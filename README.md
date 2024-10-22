@@ -3,6 +3,14 @@
 ### Overview
 The University Management System (UMS) is a comprehensive solution designed to streamline and automate various functions of universities, colleges, and schools. This system integrates several key areas, including fee management, examination administration, faculty information, and student information portals. 
 
+### Homepage
+![homepage snap](https://github.com/nabil0812/University-Management-System/blob/main/screenshots/home%20page.png)
+
+### Login
+![login snap](https://github.com/nabil0812/University-Management-System/blob/main/screenshots/login.png)
+
+
+
 ### Features
  - Fee Management: Handles student fee payments & records
  - Examination Administration: Manages exam records & results.
@@ -60,5 +68,34 @@ git clone https://github.com/nabil0812/university-management-system.git
  - Run the Application:
 Open the project in NetBeans.
 Build and run.
+
+### Screenshots
+
+### Student Detail
+![studentdetail snap](https://github.com/nabil0812/University-Management-System/blob/main/screenshots/student%20details.png)
+
+### Teacher Detail
+![teacherdetail snap](https://github.com/nabil0812/University-Management-System/blob/main/screenshots/teacher%20details.png)
+
+### Student leave
+![studentleave snap](https://github.com/nabil0812/University-Management-System/blob/main/screenshots/student%20leave.png)
+
+### Teacher leave
+![teacherleave snap](https://github.com/nabil0812/University-Management-System/blob/main/screenshots/teacher%20leave.png)
+
+### Marks Student
+![studentmarks snap](https://github.com/nabil0812/University-Management-System/blob/main/screenshots/marks%20of%20student.png)
+
+### Result
+![studentresult snap](https://github.com/nabil0812/University-Management-System/blob/main/screenshots/result.png)
+
+### Fee Structure
+![fee snap](https://github.com/nabil0812/University-Management-System/blob/main/screenshots/fee%20structure.png)
+
+### Student Fee 
+![studentfeesnap](https://github.com/nabil0812/University-Management-System/blob/main/screenshots/fee.png)
+
+### About Developer
+![aboutdeveloper snap](https://github.com/nabil0812/University-Management-System/blob/main/screenshots/about.png)
 
 
